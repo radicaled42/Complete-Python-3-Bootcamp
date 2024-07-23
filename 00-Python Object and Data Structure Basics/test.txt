@@ -1,2 +1,3 @@
-First Line
-Second Line
+This is a new line
+This is text being appended to test.txt
+And another line here.
